@@ -24,7 +24,7 @@ public class Hourglass {
                         System.out.print(" ");
                     }
 
-                    System.out.println("/n");
+                    System.out.println();
 
                     if(i+1 == height - x) {
                         break;
@@ -48,7 +48,7 @@ public class Hourglass {
                         System.out.print(" ");
                     }
 
-                    System.out.println("/n");
+                    System.out.println();
                 }
             } else {
                 System.out.print("");
